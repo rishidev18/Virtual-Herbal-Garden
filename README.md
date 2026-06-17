@@ -68,23 +68,35 @@ Preserve traditional medicinal plant knowledge.
 Develop an interactive and user-friendly application.
 
 5.Workflow:
+## Workflow
+
+```text
 Start
-   ↓
-User Registration/Login
-   ↓
+  │
+  ▼
+User Registration / Login
+  │
+  ▼
 Dashboard
-   ↓
+  │
+  ▼
 Search Plant
-   ↓
+  │
+  ▼
 Select Plant
-   ↓
+  │
+  ▼
 View Plant Details
-   ↓
+  │
+  ▼
 Learn Uses & Benefits
-   ↓
+  │
+  ▼
 Logout
-   ↓
+  │
+  ▼
 End
+```
 
 6.Project Structure:
 ## Project Structure
@@ -114,7 +126,6 @@ Virtual-Herbal-Garden/
 ├── requirements.txt
 └── README.md
 ```
-├── app.py
-├── requirements.txt
+
 └── README.md
 
