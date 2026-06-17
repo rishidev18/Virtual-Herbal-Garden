@@ -8,7 +8,7 @@ The Virtual Herbal Garden is a web-based application designed to provide detaile
 2. Features
 Admin Features
 
-Admin Login
+admin Login
 Add New Plant Information
 Update Plant Details
 Delete Plant Records
@@ -30,7 +30,7 @@ Fast Search Functionality
 Secure Data Storage
 Responsive Design
 
-4. Tech Stack
+3. Tech Stack
 
 Frontend
 
@@ -43,7 +43,9 @@ Backend
 
 Python
 Flask (or Streamlit)
+
 Database
+
 MySQL / SQLite
 
 Development Tools
@@ -51,12 +53,13 @@ Development Tools
 VS Code
 Git & GitHub
 
-5. Objectives
+4. Objectives
 Primary Objective
 
 To develop a digital platform that provides comprehensive information about medicinal plants and their uses.
 
 Specific Objectives
+
 Create an online repository of medicinal plants.
 Provide scientific and medicinal information about herbs.
 Promote awareness of herbal medicine.
