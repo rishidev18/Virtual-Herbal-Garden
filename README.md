@@ -87,6 +87,9 @@ Logout
 End
 
 6.Project Structure:
+## Project Structure
+
+```text
 Virtual-Herbal-Garden/
 │
 ├── static/
@@ -107,6 +110,10 @@ Virtual-Herbal-Garden/
 ├── database/
 │   └── herbal_garden.db
 │
+├── app.py
+├── requirements.txt
+└── README.md
+```
 ├── app.py
 ├── requirements.txt
 └── README.md
